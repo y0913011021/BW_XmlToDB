@@ -1,0 +1,17 @@
+INCLUDEPATH += $$PWD/
+
+HEADERS += $$PWD/glb_auxfunc.h \
+           $$PWD/glb_customEvent.h \
+		   $$PWD/glb_colorDefine.h \
+           $$PWD/glb_math.h \
+		   $$PWD/glb_mathDefine.h \
+		   $$PWD/glb_rtree.h \
+		   $$PWD/glb_singleton.h \ 
+           $$PWD/glb_slink.h \
+           $$PWD/glb_dlink.h \
+           $$PWD/glb_string.h \
+           $$PWD/glb_validator.h \
+           $$PWD/glb_format.h \
+           $$PWD/glb_timer.h
+                   
+#SOURCES += $$PWD/glb_format.cpp

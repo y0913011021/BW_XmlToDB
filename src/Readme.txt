@@ -1,0 +1,1 @@
+文件夹sqldrivers下的库全部拷贝到D:\Qt\4.8.4\plugins\sqldrivers目录下
